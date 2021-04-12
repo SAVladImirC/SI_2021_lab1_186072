@@ -1,0 +1,6 @@
+pen 
+notebook
+smartphone
+earphones
+laptop
+television
